@@ -1,0 +1,4 @@
+#Wed Sep 05 10:36:56 BRT 2018
+base.0=C\:\\Users\\17259230\\AndroidStudioProjects\\JogodaForca-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
